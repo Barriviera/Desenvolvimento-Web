@@ -1,1 +1,1 @@
-Site sobre algo que gosto para paticar HTML, CSS e Bootstrap
+Página criada por hobbie sobre realidade virtual.
